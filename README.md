@@ -29,9 +29,9 @@ Check here for [Interactive Dashboard](https://public.tableau.com/views/PBIKalbe
 
 Given a timeseries dataset that contains a report of product quantity sold. In this machine learning project, I need to make a predictive model to predict or forecast the quantity of the product being sold the next month and daily.
 Using ARIMA as the model, MAE (Mean Absolute Error) and RMSE (Root Mean Squared Error) as the metrics evaluation. In this project I successfully forecast the product quantity being sold on January 2023, quantity as a whole and also quantity per product. 
-For documentation you can check it here, [Forecast Quantity]()
+For documentation you can check it here, [Forecast Quantity](https://github.com/virgobase/kalbe_nutritionals/blob/main/FinPro%20Kalbe/ARIMA%20Doc/ARIMA%20Forecasting.ipynb)
 
 **Clustering with K-Means:**
 
 The dataset given is informing about customer transaction towards some sort of snack/food product. As a data scientist, I've asked to do customer segmentattion and then make some business recomendation based on the customer cluster characteristics.
-This project handled using K-Means method, then found there are 3 clusters based on the dataset. The whole documentation can be seen here, [Clustering K-Means]()
+This project handled using K-Means method, then found there are 3 clusters based on the dataset. The whole documentation can be seen here, [Clustering K-Means](https://github.com/virgobase/kalbe_nutritionals/blob/main/FinPro%20Kalbe/Kmeans%20Doc/Clustering_with_K_Means.ipynb)
