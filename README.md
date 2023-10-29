@@ -35,3 +35,7 @@ For documentation you can check it here, [Forecast Quantity](https://github.com/
 
 The dataset given is informing about customer transaction towards some sort of snack/food product. As a data scientist, I've asked to do customer segmentattion and then make some business recomendation based on the customer cluster characteristics.
 This project handled using K-Means method, then found there are 3 clusters based on the dataset. The whole documentation can be seen here, [Clustering K-Means](https://github.com/virgobase/kalbe_nutritionals/blob/main/FinPro%20Kalbe/Kmeans%20Doc/Clustering_with_K_Means.ipynb)
+
+***
+
+[**Click here**](https://github.com/virgobase/kalbe_nutritionals/blob/main/FinPro%20Kalbe/FinalTask_Kalbe_DS_Virgo%20Gilang%20Pratama.pdf) to check my powerpoint presentation.
